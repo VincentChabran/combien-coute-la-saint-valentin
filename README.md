@@ -28,17 +28,42 @@ Page source vérifiée directement :
 Aucun chiffre de ce document n'a été recalculé ou extrapolé : ils sont recopiés tels que publiés
 par l'institut.
 
+## Complément : le budget fleurs, à part (ajouté le 2026-08-11)
+
+Une décomposition en euros par poste de dépense restait introuvable au moment de la publication
+initiale (voir « Ce qui manque » ci-dessous). Un chiffre distinct, propre à un seul poste, a depuis
+été trouvé et vérifié directement à la source :
+
+| Indicateur | Chiffre |
+|---|---|
+| Budget moyen fleurs/plantes pour la Saint-Valentin 2026 | **25,70 €** (vs 25,20 € en 2025) |
+| Foyers acheteurs de fleurs/plantes pour l'occasion | **1,2 million** |
+
+Selon **VALHOR** (interprofession française de l'horticulture et du fleurissement), citant un
+**panel consommateurs Kantar pour FranceAgriMer et VALHOR** — page vérifiée directement :
+https://www.valhor.fr/actualites/fleurs-et-plantes-achetees-pour-les-fetes
+
+**À lire avec deux nuances :**
+- Ce chiffre porte spécifiquement sur le poste *fleurs/plantes*, une sous-catégorie du budget
+  cadeau global (154 €, YouGov, ci-dessus) — ce ne sont pas deux mesures du même total, elles ne
+  s'additionnent pas et ne se comparent pas directement.
+- Kantar est le prestataire qui a mesuré (panel d'achats réels, plus robuste qu'un sondage
+  déclaratif). **VALHOR, qui diffuse ce chiffre, est l'organisme professionnel de la filière
+  horticole** (financé par une cotisation obligatoire des producteurs/vendeurs, avec mission
+  statutaire de développement du marché du végétal) — il a un intérêt direct à publier un chiffre
+  qui progresse. Le chiffre est repris ici tel que mesuré par Kantar, sans reprendre l'angle
+  promotionnel de VALHOR : c'est un constat, pas une incitation à dépenser plus.
+
 ## Ce qui manque, honnêtement
 
-Contrairement aux 7 sujets précédents de cette série, **aucune décomposition en euros par poste de
-dépense** (restaurant, fleurs, cadeau, etc.) n'a pu être trouvée avec une source primaire nommée.
-Trois recherches successives (YouGov elle-même, intotheminds.com, un croisement Halloween/santé/
-budget-parents chez Cofidis-CSA) n'ont produit que des fourchettes non sourcées (« plus de 100 €
-au restaurant », « une trentaine d'euros » pour des fleurs, sur creditnews.fr, sans institut
-nommé). Ce dépôt ne les reprend donc pas : conformément à la règle de cette ligne éditoriale
-(« aucun chiffre inventé, jamais » — consignes-vincent.md §10.4), seuls les chiffres directement
-vérifiés à la source (budget total, taux de participation, et répartition en % des types de
-cadeaux prévus) sont utilisés.
+Contrairement aux 7 sujets précédents de cette série, **aucune décomposition complète en euros par
+poste de dépense** (restaurant, cadeau hors fleurs, etc.) n'a pu être trouvée avec une source
+primaire nommée — seul le poste fleurs (ci-dessus) a pu être isolé. Trois recherches successives
+(YouGov elle-même, intotheminds.com, un croisement Halloween/santé/budget-parents chez
+Cofidis-CSA) n'ont produit pour le reste que des fourchettes non sourcées (« plus de 100 € au
+restaurant » sur creditnews.fr, sans institut nommé). Ce dépôt ne les reprend donc pas :
+conformément à la règle de cette ligne éditoriale (« aucun chiffre inventé, jamais » —
+consignes-vincent.md §10.4), seuls les chiffres directement vérifiés à la source sont utilisés.
 
 ## À propos
 
