@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vincentchabran.github.io/combien-coute-la-saint-valentin/sitemap.xml
