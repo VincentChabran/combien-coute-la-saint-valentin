@@ -1,5 +1,7 @@
 # Combien coûte la Saint-Valentin ?
 
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-la-saint-valentin.pages)
+
 **154 €** : c'est le budget cadeau moyen chez les couples qui comptaient fêter la Saint-Valentin
 2025 — soit **12 € de plus qu'en 2023**. Seuls **36 %** des Français comptent la fêter (+2
 points vs 34 % en 2023), avec un pic à 42 % chez les 35-44 ans.
